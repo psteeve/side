@@ -1,0 +1,2 @@
+* Load a typescript project and build a json ast for the sources
+* Serve the source as a json api
